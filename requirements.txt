@@ -1,0 +1,7 @@
+# requirements.txt
+
+# Core game engine for graphics, sound, and input
+pygame>=2.1.0
+
+# Library for numerical operations (used for vectors, clipping, etc.)
+numpy>=1.21.0
